@@ -1,16 +1,31 @@
-## Hi there 👋
+Olá, eu sou Richard 👋
 
-<!--
-**RichardAn2024/RichardAn2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente sou programador front-end e venho estudando e praticando desenvolvimento web diariamente. Já aprendi HTML, CSS e JavaScript, criando diversos projetos para evoluir minhas habilidades na prática.
 
-Here are some ideas to get you started:
+No momento, meu foco é continuar aprimorando meus conhecimentos e em breve começar os estudos em React e Node.js, buscando me tornar um desenvolvedor cada vez mais completo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gosto de transformar ideias em projetos funcionais, aprender novas tecnologias e enfrentar desafios que me façam evoluir como desenvolvedor.
+<br>
+<br>
+🚀 Tecnologias que estou estudando:
+<br>
+HTML5
+<br>
+CSS3
+<br>
+JavaScript
+<br>
+<br>
+<br>
+📚 Próximos passos
+<br>
+React
+<br>
+Node.js
+<br>
+<br>
+<br>
+💻 Sobre mim
+Sempre praticando através de projetos
+Em constante aprendizado
+Apaixonado por tecnologia e desenvolvimento web
